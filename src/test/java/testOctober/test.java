@@ -39,4 +39,5 @@ public class test {
         int c= b*a;
         System.out.println(c);
     }
+    
 }
